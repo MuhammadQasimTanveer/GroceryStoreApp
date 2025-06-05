@@ -16,8 +16,7 @@ A responsive web application that allows users to browse and shop for grocery pr
 
 ## 🛠️ Technologies Used
 
--HTML5
--CSS3
--JavaScript (ES6+)
--GitHub Pages (for JSON data hosting)
--Fetch API (to load JSON data)
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Fetch API (to load JSON data)
