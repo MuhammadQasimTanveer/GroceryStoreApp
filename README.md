@@ -2,9 +2,9 @@
 
 A responsive web application that allows users to browse and shop for grocery products easily.It features an intuitive interface with search, categories, and a dynamic shopping cart.
 
-       [Live Demo](https://muhammadqasimtanveer.github.io/GroceryStoreApp/)
+[Live Demo](https://muhammadqasimtanveer.github.io/GroceryStoreApp/)
 
-## 🚀 Functionalities
+## Functionalities
 
 - Add products to shopping cart
 - Select the quantity of a product
@@ -15,7 +15,7 @@ A responsive web application that allows users to browse and shop for grocery pr
 - Automatic shopping cart update
 - Shopping cart icon with products count
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
