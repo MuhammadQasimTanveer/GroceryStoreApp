@@ -1,8 +1,7 @@
 # Grocery Store App
 
-A responsive web application for browsing and shopping grocery products with live JSON data.
+A responsive web application that allows users to browse and shop for grocery products easily.It features an intuitive interface with search, categories, and a dynamic shopping cart.
 
----
 
 ## 🚀 Functionalities
 
@@ -14,3 +13,11 @@ A responsive web application for browsing and shopping grocery products with liv
 - Category menu
 - Automatic shopping cart update
 - Shopping cart icon with products count
+
+## 🛠️ Technologies Used
+
+-HTML5
+-CSS3
+-JavaScript (ES6+)
+-GitHub Pages (for JSON data hosting)
+-Fetch API (to load JSON data)
