@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <!-- Google Tag Manager -->
+   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+   })(window,document,'script','dataLayer','GTM-5MMT9K4');</script>
+   <!-- End Google Tag Manager -->
+   
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="./assets/css/reset.css">
+   <link rel="stylesheet" href="./assets/css/base.css">
+   <link rel="stylesheet" href="./assets/css/header.css">
+   <link rel="stylesheet" href="./assets/css/menu.css">
+   <link rel="stylesheet" href="./assets/css/shopping-cart.css">
+   <link rel="stylesheet" href="./assets/css/hero.css">
+   <link rel="stylesheet" href="./assets/css/category.css">
+   <link rel="stylesheet" href="./assets/css/product.css">
+   <link rel="stylesheet" href="./assets/css/footer.css">
+   <link href="https://fonts.googleapis.com/css2?family=Bitter:wght@400;500;600;700&display=swap" rel="stylesheet"> 
+   <link href="https://fonts.googleapis.com/css2?family=Gantari:wght@300;400;500;600;700&display=swap" rel="stylesheet"> 
+   <title>Grocery Store</title>
+   <script src="https://kit.fontawesome.com/b9e42e9bca.js" crossorigin="anonymous"></script>
+</head>
+   
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0P2S1LL00T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0P2S1LL00T');
+</script>
+ 
+<body>
+   <!-- Google Tag Manager (noscript) -->
+   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5MMT9K4"
+   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+   <!-- End Google Tag Manager (noscript) -->
+   
+   <header class="header">
+      <i class="fa-solid fa-bars header__menu-icon" data-menu-button aria-label="Menu icon" tabindex="0"></i>
+      <a href="#" class="header__title">Grocery Store</a>
+      <div class="header__search-cart">        
+         <input type="search" placeholder="Search" class="header__search-text invisible" data-search-bar>
+         <i class="fa-solid fa-magnifying-glass header__search-icon" data-search-icon aria-label="Search icon" tabindex="0"></i>
+         <section class="header__shopping-cart">
+            <i class="fa-solid fa-cart-shopping header__shopping-cart__icon" aria-label="Shopping cart icon" tabindex="0" data-cart-icon></i>
+            <span class="header__shopping-cart__count invisible" data-cart-count></span>
+         </section>
+      </div>
+   </header>
+   <nav class="menu invisible" data-menu>
+      <h3 class="menu__title" data-menu-categories tabindex="0">Categories</h3>
+      <ul class="menu__list">
+         <li class="menu__item">
+            <a href="./category.html?cat=fruits" class="menu__item-link">Fruits</a>
+         </li>
+         <li class="menu__item">
+            <a href="./category.html?cat=vegetables" class="menu__item-link">Vegetables</a>
+         </li>
+         <li class="menu__item">
+            <a href="./category.html?cat=seeds" class="menu__item-link">Seeds</a>
+         </li>
+         <li class="menu__item">
+            <a href="./category.html?cat=others" class="menu__item-link">Others</a>
+         </li>
+         <li class="menu__item">
+            <a href="./category.html?cat=all-products" class="menu__item-link">All Products</a>
+         </li>
+      </ul>
+   </nav>
+   <section class="shopping-cart invisible" data-shopping-cart>
+      <h2 class="shopping-cart__title">Shopping Cart</h2>
+      <div class="shopping-cart__list" data-shopping-cart-list>
+      </div>
+      <div class="shopping-cart__total">
+         <h3 class="shopping-cart__total__title">Total:</h3>
+         <p class="shopping-cart__total__price" data-shopping-cart-total></p>
+         <input type="button" class="shopping-cart__total__button button" value="Checkout">
+      </div>
+   </section>
+   <main>
+      <section class="hero">
+         <h1 class="hero__title">Fresh fruits, <br> vegetables</h1>
+         <h2 class="hero__subtitle">and more!</h2>
+         <a href="./category.html?cat=all-products" class="hero__button button">Shop now</a>
+      </section>
+      <section class="categories" data-categories-section>
+      </section>
+   </main>
+   <footer class="footer">
+      <section class="footer__social-media">
+         <h2 class="footer__title">Follow Us</h2>
+         <div class="footer__social-media__icons">
+            <a href="https://www.facebook.com/" class="fa-brands fa-facebook footer__icon"></a>
+            <a href="https://www.instagram.com/accounts/login/?hl=en" class="fa-brands fa-instagram footer__icon"></a>
+            <a href="https://www.linkedin.com/in/qasim-tanvir-baa70b363/" class="fa-brands fa-linkedin footer__icon"></a>
+         </div>
+      </section>
+      <ul class="footer__list">
+         <li class="footer__item">
+            <a href="#" class="footer__link">About Us</a>
+         </li>
+         <li class="footer__item">
+            <a href="#" class="footer__link">Terms of Use</a>
+         </li>
+         <li class="footer__item">
+            <a href="#" class="footer__link">FAQ</a>
+         </li>
+         <li class="footer__item">
+            <a href="#" class="footer__link">Help</a>
+         </li>
+      </ul>
+      <div class="developer">
+         <span class="developer__title">Developed by Muhammad Qasim Tanveer</span>
+         <span class="developer__year">2024</span>
+      </div>
+   </footer>
+   <script type="module" src="./assets/js/home.js"></script>
+</body>
+ 
+</html>

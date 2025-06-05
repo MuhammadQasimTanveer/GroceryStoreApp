@@ -1,0 +1,316 @@
+{
+  "products": [
+    {
+      "name": "Almond Milk",
+      "price": "3.50",
+      "image": "almond-milk",
+      "category": "others",
+      "id": 1
+    },
+    {
+      "name": "Almonds",
+      "price": "6.00",
+      "image": "almonds",
+      "category": "seeds",
+      "id": 2
+    },
+    {
+      "name": "Avocado",
+      "price": "1.00",
+      "image": "avocado",
+      "category": "fruits",
+      "id": 3
+    },
+    {
+      "name": "Banana",
+      "price": "1.20",
+      "image": "banana",
+      "category": "fruits",
+      "id": 4
+    },
+    {
+      "name": "Beets",
+      "price": "2.50",
+      "image": "beet",
+      "category": "vegetables",
+      "id": 5
+    },
+    {
+      "name": "Blueberries",
+      "price": "4.50",
+      "image": "blueberry",
+      "category": "fruits",
+      "id": 6
+    },
+    {
+      "name": "Sourdough Bread",
+      "price": "4.00",
+      "image": "bread",
+      "category": "others",
+      "id": 7
+    },
+    {
+      "name": "Broccoli",
+      "price": "1.75",
+      "image": "broccoli",
+      "category": "vegetables",
+      "id": 8
+    },
+    {
+      "name": "Chocolate Brownies",
+      "price": "4.50",
+      "image": "brownies",
+      "category": "others",
+      "id": 9
+    },
+    {
+      "name": "Cherries",
+      "price": "9.00",
+      "image": "cherry",
+      "category": "fruits",
+      "id": 10
+    },
+    {
+      "name": "Chickpeas",
+      "price": "1.80",
+      "image": "chickpeas",
+      "category": "seeds",
+      "id": 11
+    },
+    {
+      "name": "Coffee Beans",
+      "price": "8.50",
+      "image": "coffee-beans",
+      "category": "seeds",
+      "id": 12
+    },
+    {
+      "name": "Cucumber",
+      "price": "2.00",
+      "image": "cucumber",
+      "category": "vegetables",
+      "id": 13
+    },
+    {
+      "name": "Eggplant",
+      "price": "1.50",
+      "image": "eggplant",
+      "category": "vegetables",
+      "id": 14
+    },
+    {
+      "name": "Eggs",
+      "price": "3.50",
+      "image": "eggs",
+      "category": "others",
+      "id": 15
+    },
+    {
+      "name": "Figs",
+      "price": "11.00",
+      "image": "fig",
+      "category": "fruits",
+      "id": 16
+    },
+    {
+      "name": "Garlic",
+      "price": "2.00",
+      "image": "garlic",
+      "category": "vegetables",
+      "id": 17
+    },
+    {
+      "name": "Granola",
+      "price": "3.00",
+      "image": "granola",
+      "category": "others",
+      "id": 18
+    },
+    {
+      "name": "Grapes",
+      "price": "5.00",
+      "image": "grapes",
+      "category": "fruits",
+      "id": 19
+    },
+    {
+      "name": "Green Apple",
+      "price": "2.00",
+      "image": "green-apple",
+      "category": "fruits",
+      "id": 20
+    },
+    {
+      "name": "Honey",
+      "price": "5.00",
+      "image": "honey",
+      "category": "others",
+      "id": 21
+    },
+    {
+      "name": "Kiwi",
+      "price": "6.00",
+      "image": "kiwi",
+      "category": "fruits",
+      "id": 22
+    },
+    {
+      "name": "Lemon",
+      "price": "3.50",
+      "image": "lemon",
+      "category": "fruits",
+      "id": 23
+    },
+    {
+      "name": "Mango",
+      "price": "3.50",
+      "image": "mango",
+      "category": "fruits",
+      "id": 24
+    },
+    {
+      "name": "Onions",
+      "price": "1.50",
+      "image": "onion",
+      "category": "vegetables",
+      "id": 25
+    },
+    {
+      "name": "Oranges",
+      "price": "4.00",
+      "image": "orange",
+      "category": "fruits",
+      "id": 26
+    },
+    {
+      "name": "Papaya",
+      "price": "5.00",
+      "image": "papaya",
+      "category": "fruits",
+      "id": 27
+    },
+    {
+      "name": "Peaches",
+      "price": "5.50",
+      "image": "peach",
+      "category": "fruits",
+      "id": 28
+    },
+    {
+      "name": "Peanuts",
+      "price": "1.50",
+      "image": "peanuts",
+      "category": "seeds",
+      "id": 29
+    },
+    {
+      "name": "Pineapple",
+      "price": "3.50",
+      "image": "pineapple",
+      "category": "fruits",
+      "id": 30
+    },
+    {
+      "name": "Pistachios",
+      "price": "9.00",
+      "image": "pistachio",
+      "category": "seeds",
+      "id": 31
+    },
+    {
+      "name": "Pomegranate",
+      "price": "9.00",
+      "image": "pomegranate",
+      "category": "fruits",
+      "id": 32
+    },
+    {
+      "name": "Potatoes",
+      "price": "3.00",
+      "image": "potatoes",
+      "category": "vegetables",
+      "id": 33
+    },
+    {
+      "name": "Raisins",
+      "price": "2.25",
+      "image": "raisins",
+      "category": "others",
+      "id": 34
+    },
+    {
+      "name": "Raspberries",
+      "price": "6.00",
+      "image": "raspberries",
+      "category": "fruits",
+      "id": 35
+    },
+    {
+      "name": "Red Apple",
+      "price": "2.00",
+      "image": "red-apple",
+      "category": "fruits",
+      "id": 36
+    },
+    {
+      "name": "Red Beans",
+      "price": "2.00",
+      "image": "red-beans",
+      "category": "seeds",
+      "id": 37
+    },
+    {
+      "name": "Rice",
+      "price": "2.50",
+      "image": "rice",
+      "category": "seeds",
+      "id": 38
+    },
+    {
+      "name": "Soybeans",
+      "price": "8.00",
+      "image": "soybeans",
+      "category": "seeds",
+      "id": 39
+    },
+    {
+      "name": "Strawberries",
+      "price": "3.00",
+      "image": "strawberry",
+      "category": "fruits",
+      "id": 40
+    },
+    {
+      "name": "Tomatoes",
+      "price": "2.50",
+      "image": "tomato",
+      "category": "vegetables",
+      "id": 41
+    },
+    {
+      "name": "Zucchini",
+      "price": "2.00",
+      "image": "zucchini",
+      "category": "vegetables",
+      "id": 42
+    }
+  ],
+  "categories": [
+    {
+      "category": "fruits",
+      "id": 1
+    },
+    {
+      "category": "vegetables",
+      "id": 2
+    },
+    {
+      "category": "seeds",
+      "id": 3
+    },
+    {
+      "category": "others",
+      "id": 4
+    }
+  ]
+}
